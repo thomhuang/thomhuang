@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I am Thomas Huang, currently a third year Applied Mathematics major at UCLA, with experience in Python, C++, Java, R, and HTML/CSS.
+Hello! I am Thomas Huang, currently a fourth year Applied Mathematics major at UCLA, with experience in Python, SQL, and C++.
 
 If you'd like to learn more about me, please visit my website @ https://www.thomaskhuang.com,
 
